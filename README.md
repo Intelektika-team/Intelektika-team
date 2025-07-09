@@ -45,7 +45,7 @@ We’re an innovative team from **Kvantorium (Dimitrovgrad)**, building open te
     
 - **🐞 Help improve:** We welcome contributors for SDK development, testing, and docs translation.
     
-- **🌐 Stay tuned:** [Telegram](https://t.me/Intelektika_news) 
+- **🌐 Stay tuned:** [Telegram](https://t.me/Intelektika_news) [Forum](https://t.me/+8HZ_kJyye9ZiNDEy)
     
 
 **Building a future where tech serves people — not the other way around.**  
