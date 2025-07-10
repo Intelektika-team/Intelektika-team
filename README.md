@@ -39,7 +39,7 @@ We’re an innovative team from **Kvantorium (Dimitrovgrad)**, building open te
 
 ---
 
-### **🚪 Join Us!**
+### **🚪 Join Us**
 
 - **⭐ Star** our [main reposetory](https://github.com/Intelektika-team) to track updates!
     
