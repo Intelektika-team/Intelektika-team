@@ -50,7 +50,10 @@ We’re an innovative team from **Kvantorium (Dimitrovgrad)**, building open te
 
 Projects -
 - [PiCore mini](https://github.com/Intelektika-team/PiCore_mini-startup)
-- [H1](https://github.com/Intelektika-team/H1)
+- Future projects:
+      H1
+      PiCore duo
+      PiCore core 1
 
 
 
