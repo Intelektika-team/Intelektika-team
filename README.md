@@ -48,5 +48,11 @@ We’re an innovative team from **Kvantorium (Dimitrovgrad)**, building open te
 - **🌐 Stay tuned:** [Telegram](https://t.me/Intelektika_news) [Forum](https://t.me/+8HZ_kJyye9ZiNDEy)
     
 
+Projects -
+- [PiCore mini](https://github.com/Intelektika-team/PiCore_mini-startup)
+- [H1](https://github.com/Intelektika-team/H1)
+
+
+
 **Building a future where tech serves people — not the other way around.**  
 Intelektika team · Dimitrovgrad · 2025
