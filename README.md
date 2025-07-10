@@ -41,19 +41,19 @@ We’re an innovative team from **Kvantorium (Dimitrovgrad)**, building open te
 
 ### **🚪 Join Us!**
 
-- **⭐ Star** our [main repo](https://github.com/Intelektika-team) to track updates!
+- **⭐ Star** our [main reposetory](https://github.com/Intelektika-team) to track updates!
     
 - **🐞 Help improve:** We welcome contributors for SDK development, testing, and docs translation.
     
-- **🌐 Stay tuned:** [Telegram](https://t.me/Intelektika_news) [Forum](https://t.me/+8HZ_kJyye9ZiNDEy)
+- **🌐 Stay tuned:** [Telegram](https://t.me/Intelektika_news), [Forum](https://t.me/+8HZ_kJyye9ZiNDEy)
     
 
 Projects -
 - [PiCore mini](https://github.com/Intelektika-team/PiCore_mini-startup)
 - Future projects:
-      H1
-      PiCore duo
-      PiCore core 1
+  - H1
+  - PiCore duo
+  - PiCore core 1
 
 
 
