@@ -5,9 +5,6 @@ We’re an innovative team from **Kvantorium (Dimitrovgrad)**, building open te
 ---
 
 ### **🔥 Our Projects**
-
-- **Hardware Solutions**  
-    Compact computers (like **PiCore mini**), peripherals, and DIY kits for IoT, robotics, and edge computing.
     
 - **PiCore Toolkit**  
     Universal libraries (Python/C++), drivers, and APIs for hardware control, sensors, and networking.
@@ -45,15 +42,13 @@ We’re an innovative team from **Kvantorium (Dimitrovgrad)**, building open te
     
 - **🐞 Help improve:** We welcome contributors for SDK development, testing, and docs translation.
     
-- **🌐 Stay tuned:** [Telegram](https://t.me/Intelektika_news), [Forum](https://t.me/+8HZ_kJyye9ZiNDEy)
+- **🌐 Stay tuned:** [Telegram](https://t.me/Intelektika_news)
     
 
 Projects -
-- [PiCore mini](https://github.com/Intelektika-team/PiCore_mini-startup)
+- [PiCore mini](https://github.com/Intelektika-team/PiCore_mini-startup) _stoped_
 - Future projects:
-  - Q1
-  - PiCore duo
-  - PiCore core 1
+  - Q1 
 
 
 
