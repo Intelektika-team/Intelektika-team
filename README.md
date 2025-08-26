@@ -8,6 +8,9 @@ We’re an innovative team from **Kvantorium (Dimitrovgrad)**, building open te
     
 - **PiCore Toolkit**  
     Universal libraries (Python/C++), drivers, and APIs for hardware control, sensors, and networking.
+
+- **The Patch Project**
+    Unical hardware automation controller and software for than.
     
 - **System Software**  
     Lightweight OS builds, debuggers, and utilities for flashing, monitoring, and optimizing your devices.
@@ -47,8 +50,9 @@ We’re an innovative team from **Kvantorium (Dimitrovgrad)**, building open te
 
 Projects -
 - [PiCore mini](https://github.com/Intelektika-team/PiCore_mini-startup) _stoped_
-- Nelin
-- Patch
+- [Nelin](https://github.com/Intelektika-team/NELIN)
+- [Patch](https://github.com/Intelektika-team/Project-PATCH)
+- [Utitool](https://github.com/Intelektika-team/Utitool)
 
 
 
