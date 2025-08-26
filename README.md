@@ -14,6 +14,9 @@ We’re an innovative team from **Kvantorium (Dimitrovgrad)**, building open te
   
 - **Utitool**
     Cli utility for working with the system and a unique system of plugins on Python.
+
+- **Nelin**
+    A library for working with a new type of machine learning, allowing you to create both rapid prototypes and large commercial projects.
     
 - **System Software**  
     Lightweight OS builds, debuggers, and utilities for flashing, monitoring, and optimizing your devices.
