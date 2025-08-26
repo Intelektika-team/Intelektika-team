@@ -1,4 +1,4 @@
-### **🌟 Welcome to Intelektika Team!**
+то### **🌟 Welcome to Intelektika Team!**
 
 We’re an innovative team from **Kvantorium (Dimitrovgrad)**, building open technologies for developers, engineers, and makers. Our mission is to make powerful tools accessible, versatile, and ready to use _"out of the box."_ We don’t just build computers — we create an **ecosystem**: from hardware platforms to libraries and software that unlock their full potential.
 
@@ -47,8 +47,8 @@ We’re an innovative team from **Kvantorium (Dimitrovgrad)**, building open te
 
 Projects -
 - [PiCore mini](https://github.com/Intelektika-team/PiCore_mini-startup) _stoped_
-- Future projects:
-  - Q1 
+- Nelin
+- Patch
 
 
 
