@@ -10,7 +10,10 @@ We’re an innovative team from **Kvantorium (Dimitrovgrad)**, building open te
     Universal libraries (Python/C++), drivers, and APIs for hardware control, sensors, and networking.
 
 - **The Patch Project**
-    Unical hardware automation controller and software for than.
+    A unique hardware automation controller and software for it called PatchWorks.
+  
+- **Utitool**
+    Cli utility for working with the system and a unique system of plugins on Python.
     
 - **System Software**  
     Lightweight OS builds, debuggers, and utilities for flashing, monitoring, and optimizing your devices.
