@@ -2,7 +2,7 @@
 
 We’re an innovative team from **Kvantorium (Dimitrovgrad)**, building open technologies for developers, engineers, and makers. Our mission is to make powerful tools accessible, versatile, and ready to use *"out of the box."* We don’t just build devices — we create an **ecosystem**: from hardware platforms to libraries and software that unlock their full potential.
 
-[![About-Ru](https://img.shields.io/badge/README-RU%20-0088CC?style=for-the-badge&logo=github)]([https://t.me/Intelektika_news](https://github.com/Intelektika-team/Intelektika-team/README-RU.md))
+[![About-Ru](https://img.shields.io/badge/README-RU%20-0088CC?style=for-the-badge&logo=github)](https://github.com/Intelektika-team/Intelektika-team/blob/main/README-RU.md)
 [![Project Patch Status](https://img.shields.io/badge/Project%20Patch-In%20Active%20Development-orange?style=for-the-badge)](#)
 [![Utitool Status](https://img.shields.io/badge/Utitool-Stable%20v1.0.0-brightgreen?style=for-the-badge)](#)
 
