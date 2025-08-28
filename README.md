@@ -5,21 +5,21 @@ We’re an innovative team from **Kvantorium (Dimitrovgrad)**, building open te
 ---
 
 ### **🔥 Our Projects**
-    
-- **PiCore Toolkit**  
-    Universal libraries (Python/C++), drivers, and APIs for hardware control, sensors, and networking.
 
-- **The Patch Project**
+- **The Patch Project:**
     A unique hardware automation controller and software for it called PatchWorks.
   
-- **Utitool**
+- **Utitool:**
     Cli utility for working with the system and a unique system of plugins on Python.
 
-- **Nelin**
+- **Nelin:**
     A library for working with a new type of machine learning, allowing you to create both rapid prototypes and large commercial projects.
     
-- **Picore mini (stoped)**
-    The computer based on OrangePI for ML and develop.
+- **PiCore Mini (stopped):**
+    The computer based on OrangePI for ML and develop. The project has been stopped and will not be completed.
+
+- **PiCore Toolkit (stopped):**  
+    Universal libraries (Python), drivers, and APIs for hardware control, sensors, and networking for PiCore Mini. The project has been stopped and will not be completed.
     
 
 ---
@@ -52,7 +52,7 @@ We’re an innovative team from **Kvantorium (Dimitrovgrad)**, building open te
     
 
 Projects -
-- [PiCore mini](https://github.com/Intelektika-team/PiCore_mini-startup) _stoped_
+- [PiCore mini](https://github.com/Intelektika-team/PiCore_mini-startup) _stopped_
 - [Nelin](https://github.com/Intelektika-team/NELIN)
 - [Patch](https://github.com/Intelektika-team/Project-PATCH)
 - [Utitool](https://github.com/Intelektika-team/Utitool)
