@@ -29,7 +29,7 @@ We’re an innovative team from **Kvantorium (Dimitrovgrad)**, building open te
 | **Principle**    | **How It Works**                                                                                  |
 | ---------------- | ------------------------------------------------------------------------------------------------- |
 | **Ready-to-Run** | Hardware + software are tested together. Unbox — and start creating without hacks.                |
-| **Openness**     | All code, schematics, and docs are public. Fork, modify, or integrate into your projects!         |
+| **Openness**     | Code and docs are public. Fork, modify, or integrate into your projects!         |
 | **Modularity**   | Libraries work with our hardware _and_ platforms like Raspberry Pi, Arduino, or ESP32.            |
 | **Community**    | Uniting beginners, engineers, and researchers: joint hackathons, code reviews, and startup ideas. |
 
