@@ -18,11 +18,8 @@ We’re an innovative team from **Kvantorium (Dimitrovgrad)**, building open te
 - **Nelin**
     A library for working with a new type of machine learning, allowing you to create both rapid prototypes and large commercial projects.
     
-- **System Software**  
-    Lightweight OS builds, debuggers, and utilities for flashing, monitoring, and optimizing your devices.
-    
-- **Educational Resources**  
-    Ready-to-use lab projects, simulators, and documentation from _"idea to prototype."_
+- **Picore mini (stoped)**
+    The computer based on OrangePI for ML and develop.
     
 
 ---
