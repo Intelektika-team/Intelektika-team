@@ -2,7 +2,7 @@
 
 We’re an innovative team from **Kvantorium (Dimitrovgrad)**, building open technologies for developers, engineers, and makers. Our mission is to make powerful tools accessible, versatile, and ready to use *"out of the box."* We don’t just build devices — we create an **ecosystem**: from hardware platforms to libraries and software that unlock their full potential.
 
-[![About-Ru](https://img.shields.io/badge/README-RU%20Channel-0088CC?style=for-the-badge&logo=telegram)]([https://t.me/Intelektika_news](https://github.com/Intelektika-team/Intelektika-team/README-RU.md))
+[![About-Ru](https://img.shields.io/badge/README-RU%20-0088CC?style=for-the-badge&logo=github)]([https://t.me/Intelektika_news](https://github.com/Intelektika-team/Intelektika-team/README-RU.md))
 [![Project Patch Status](https://img.shields.io/badge/Project%20Patch-In%20Active%20Development-orange?style=for-the-badge)](#)
 [![Utitool Status](https://img.shields.io/badge/Utitool-Stable%20v1.0.0-brightgreen?style=for-the-badge)](#)
 
@@ -12,9 +12,9 @@ We’re an innovative team from **Kvantorium (Dimitrovgrad)**, building open tec
 
 | Project | Status | Description | Docs |
 | :--- | :--- | :--- | :--- |
-| [**🐙 Patch**](https://github.com/Intelektika-team/Project-PATCH) | `🚧 In Active Development` | A smart, programmable automation panel. Execute any Python script with a single button press. | [Getting Started](https://github.com/Intelektika-team/Project-PATCH/wiki) |
-| [**⚒️ Utitool**](https://github.com/Intelektika-team/Utitool) | `✅ Stable v1.0.0` | A powerful CLI utility with a unique Python plugin system for automation and system tooling. | [Plugins Guide](https://github.com/Intelektika-team/Utitool/wiki) |
-| [**🧠 Nelin**](https://github.com/Intelektika-team/NELIN) | `🧪 Public Beta` | A library for a new type of machine learning, enabling rapid prototyping and commercial projects. | [API Reference](https://github.com/Intelektika-team/NELIN/wiki) |
+| [**Patch**](https://github.com/Intelektika-team/Project-PATCH) | `🚧 In Active Development` | A smart, programmable automation panel. Execute any Python script with a single button press. | [Getting Started](https://github.com/Intelektika-team/Project-PATCH/wiki) |
+| [**Utitool**](https://github.com/Intelektika-team/Utitool) | `✅ Stable v0.9.5` | A powerful CLI utility with a unique Python plugin system for automation and system tooling. | [Plugins Guide](https://github.com/Intelektika-team/Utitool/wiki) |
+| [**Nelin**](https://github.com/Intelektika-team/NELIN) | `🧪 Public Alpha 0.4.2` | A library for a new type of machine learning, enabling rapid prototyping and commercial projects. | [API Reference](https://github.com/Intelektika-team/NELIN/wiki) |
 
 ## 📦 Archived Projects
 
