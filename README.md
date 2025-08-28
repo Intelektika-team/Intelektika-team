@@ -4,23 +4,27 @@ We’re an innovative team from **Kvantorium (Dimitrovgrad)**, building open te
 
 ---
 
-### **🔥 Our Projects**
+### 🧩 Active Projects
 
-- **The Patch Project:**
-    A unique hardware automation controller and software for it called PatchWorks. In development now.
-  
-- **Utitool:**
-    Cli utility for working with the system and a unique system of plugins on Python. Now available release version.
+| Project | Status | Description | Docs |
+| :--- | :--- | :--- | :--- |
+| [**Patch**](https://github.com/Intelektika-team/Project-PATCH) | `🚧 In Active Development` | A unique hardware automation controller & PatchWorks software. Execute any Python script with a button press. | [Getting Started](https://github.com/Intelektika-team/Project-PATCH/wiki) |
+| [**Utitool**](https://github.com/Intelektika-team/Utitool) | `✅ Stable` / `v1.0.0` | CLI utility with a unique Python plugin system for system automation and tooling. | [Plugins Guide](https://github.com/Intelektika-team/Utitool/wiki) |
+| [**Nelin**](https://github.com/Intelektika-team/NELIN) | `🧪 Public Beta` | A library for a new type of machine learning, enabling rapid prototyping and commercial projects. | [API Reference](https://github.com/Intelektika-team/NELIN/wiki) |
 
-- **Nelin:**
-    A library for working with a new type of machine learning, allowing you to create both rapid prototypes and large commercial projects. In betta version.
-    
-- **PiCore Mini (stopped):**
-    The computer based on OrangePI for ML and develop. The project has been stopped and will not be completed.
+### 📦 Archived Projects
 
-- **PiCore Toolkit (stopped):**  
-    Universal libraries (Python), drivers, and APIs for hardware control, sensors, and networking for PiCore Mini. The project has been stopped and will not be completed.
-    
+*   **PiCore Mini & Toolkit:** A computer for ML and development based on OrangePI. Project stopped and will not be completed. ([Repository](https://github.com/Intelektika-team/PiCore_mini-startup))
+
+
+## 🔧 Projects tech Stack
+
+*   **Hardware:** RP2040, ESP8266, Orange Pi, custom PCBs
+*   **Firmware:** C/C++ (Arduino, ESP-IDF)
+*   **Software & CLI:** Python, Swift, Bash
+*   **Automation & ML:** Custom frameworks (Nelin), tensorflow
+*   **Tools:** Fusion 360, PlatformIO, Git, GitHub Actions, Arduino
+
 
 ---
 
