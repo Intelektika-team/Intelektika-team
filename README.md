@@ -1,19 +1,19 @@
 ### **🌟 Welcome to Intelektika Team!**
 
-We’re an innovative team from **Kvantorium (Dimitrovgrad)**, building open technologies for developers, engineers, and makers. Our mission is to make powerful tools accessible, versatile, and ready to use _"out of the box."_ We don’t just build computers — we create an **ecosystem**: from hardware platforms to libraries and software that unlock their full potential.
+We’re an innovative team from **Kvantorium (Dimitrovgrad)**, building open technologies for developers, engineers, and makers. Our mission is to make powerful tools accessible, versatile, and ready to use _"out of the box."_ We don’t just build computers — we create an **ecosystem**: from hardware platforms to libraries and software that unlock their full potential. 
 
 ---
 
 ### **🔥 Our Projects**
 
 - **The Patch Project:**
-    A unique hardware automation controller and software for it called PatchWorks.
+    A unique hardware automation controller and software for it called PatchWorks. In development now.
   
 - **Utitool:**
-    Cli utility for working with the system and a unique system of plugins on Python.
+    Cli utility for working with the system and a unique system of plugins on Python. Now available release version.
 
 - **Nelin:**
-    A library for working with a new type of machine learning, allowing you to create both rapid prototypes and large commercial projects.
+    A library for working with a new type of machine learning, allowing you to create both rapid prototypes and large commercial projects. In betta version.
     
 - **PiCore Mini (stopped):**
     The computer based on OrangePI for ML and develop. The project has been stopped and will not be completed.
@@ -53,11 +53,14 @@ We’re an innovative team from **Kvantorium (Dimitrovgrad)**, building open te
 
 Projects -
 - [PiCore mini](https://github.com/Intelektika-team/PiCore_mini-startup) _stopped_
-- [Nelin](https://github.com/Intelektika-team/NELIN)
-- [Patch](https://github.com/Intelektika-team/Project-PATCH)
-- [Utitool](https://github.com/Intelektika-team/Utitool)
+- [Nelin](https://github.com/Intelektika-team/NELIN) _beta_
+- [Patch](https://github.com/Intelektika-team/Project-PATCH) _active development_
+- [Utitool](https://github.com/Intelektika-team/Utitool) _released_
 
 
 
 **Building a future where tech serves people — not the other way around.**  
 Intelektika team · Dimitrovgrad · 2025
+
+
+<img width="3840" height="2160" alt="design1" src="https://github.com/user-attachments/assets/3536841d-7c60-487f-8fda-0bfe0daabef8" />
