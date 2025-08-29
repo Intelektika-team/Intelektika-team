@@ -60,5 +60,4 @@ We’re an innovative team from **Kvantorium (Dimitrovgrad)**, building open tec
 
 **Building a future where tech serves people — not the other way around.**
 **Intelektika team · Dimitrovgrad · 2025**
-
-<img width="3840" height="2160" alt="design1" src="https://github.com/user-attachments/assets/3536841d-7c60-487f-8fda-0bfe0daabef8" />
+<img width="1411" height="200" alt="intelektikaforgit2" src="https://github.com/user-attachments/assets/778e325d-f01f-4603-bc64-7a5b2dd2fd6e" />
