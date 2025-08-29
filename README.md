@@ -10,11 +10,11 @@ We’re an innovative team from **Kvantorium (Dimitrovgrad)**, building open tec
 
 ## 🧩 Our Active Projects
 
-| Project | Status | Description | Docs |
-| :--- | :--- | :--- | :--- |
-| [**Patch**](https://github.com/Intelektika-team/Project-PATCH) | `🚧 In Active Development` | A smart, programmable automation panel. Execute any Python script with a single button press. | [Getting Started](https://github.com/Intelektika-team/Project-PATCH/wiki) |
-| [**Utitool**](https://github.com/Intelektika-team/Utitool) | `✅ Stable v0.9.5` | A powerful CLI utility with a unique Python plugin system for automation and system tooling. | [Plugins Guide](https://github.com/Intelektika-team/Utitool/wiki) |
-| [**Nelin**](https://github.com/Intelektika-team/NELIN) | `🧪 Public Alpha 0.4.2` | A library for a new type of machine learning, enabling rapid prototyping and commercial projects. | [API Reference](https://github.com/Intelektika-team/NELIN/wiki) |
+| Project | Status | Description |
+| :--- | :--- | :--- |
+| [**Patch**](https://github.com/Intelektika-team/Project-PATCH) | `🚧 In Active Development` | A smart, programmable automation panel. Execute any Python script with a single button press. | 
+| [**Utitool**](https://github.com/Intelektika-team/Utitool) | `✅ Stable v0.9.5` | A powerful CLI utility with a unique Python plugin system for automation and system tooling. | 
+| [**Nelin**](https://github.com/Intelektika-team/NELIN) | `🧪 Public Alpha 0.4.2` | A library for a new type of machine learning, enabling rapid prototyping and commercial projects. | 
 
 ## 📦 Archived Projects
 
