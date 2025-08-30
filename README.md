@@ -59,6 +59,7 @@ We’re an innovative team from **Kvantorium (Dimitrovgrad)**, building open tec
 ---
 
 Teamlead - pt
+You can see our designs in ourdesign.md
 
 **Building a future where tech serves people — not the other way around.**
 **Intelektika team · Dimitrovgrad · 2025**
