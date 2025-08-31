@@ -53,7 +53,7 @@ We’re an innovative team from **Kvantorium (Dimitrovgrad)**, building open tec
 
 - **⭐ Star** our [main repository](https://github.com/Intelektika-team) to track updates!
 - **🐞 Help us improve:** We welcome contributors for SDK development, testing, and docs translation.
-- **🌐 Stay tuned:** [Our Telegram Channel](https://t.me/Intelektika_news)
+- **🌐 Stay tuned:** [Our Site]([https://t.me/Intelektika_news](https://intelektika-team.github.io/))
 
 ---
 
