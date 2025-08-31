@@ -32,7 +32,7 @@ We’re an innovative team from **Kvantorium (Dimitrovgrad)**, building open tec
 <a href="https://github.com/Intelektika-team">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Intelektika-team&layout=compact&theme=dark" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/Intelektika-team">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Intelektika-team&layout=compact&langs_count=8&card_width=320&theme=dark" />
 </a>
 
