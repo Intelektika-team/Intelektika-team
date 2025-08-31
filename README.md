@@ -5,7 +5,6 @@ We’re an innovative team from **Kvantorium (Dimitrovgrad)**, building open tec
 [![About-Ru](https://img.shields.io/badge/README-RU%20-0088CC?style=for-the-badge&logo=github)](https://github.com/Intelektika-team/Intelektika-team/blob/main/README-RU.md)
 [![Project Patch Status](https://img.shields.io/badge/Project%20Patch-In%20Active%20Development-orange?style=for-the-badge)](#)
 [![Utitool Status](https://img.shields.io/badge/Utitool-Stable%20v0.9.5-brightgreen?style=for-the-badge)](#)
-
 ---
 
 ## 🧩 Our Active Projects
