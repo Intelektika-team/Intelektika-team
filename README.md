@@ -24,7 +24,7 @@ We’re an innovative team from **Kvantorium (Dimitrovgrad)**, building open tec
 
 ## 🛠 Tech Stack
 
-*   **💾 Hardware:** RP2040, ESP8266, Orange Pi, custom PCBs
+*   **💾 Hardware:** RP2040, ESP8266, Orange Pi
 *   **📟 Firmware:** C/C++ (Arduino, ESP-IDF)
 *   **🖥 Software & CLI:** Python, Swift, Bash
 *   **🤖 Automation & ML:** Custom frameworks (Nelin), TensorFlow
