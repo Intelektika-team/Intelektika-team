@@ -13,7 +13,8 @@ We’re an innovative team from **Kvantorium (Dimitrovgrad)**, building open tec
 | :--- | :--- | :--- |
 | [**Patch**](https://github.com/Intelektika-team/Project-PATCH) | `🚧 In Active Development` | A smart, programmable automation panel. Execute any Python script with a single button press. | 
 | [**Utitool**](https://github.com/Intelektika-team/Utitool) | `✅ Stable v0.9.5` | A powerful CLI utility with a unique Python plugin system for automation and system tooling. | 
-| [**Nelin**](https://github.com/Intelektika-team/NELIN) | `🧪 Public Alpha 0.4.2` | A library for a new type of machine learning, enabling rapid prototyping and commercial projects. | 
+| [**Nelin**](https://github.com/Intelektika-team/NELIN) | `🧪 Public Alpha 0.4.2` | A library for a new type of machine learning, enabling rapid prototyping and commercial projects. |
+| [**Voxel**](https://github.com/Intelektika-team/VoxelLang) | `🧪 Public Alpha 0.5.8` | A programming language translated into python similar to brainfuck, but more functional. |
 
 ## 📦 Archived Projects
 
