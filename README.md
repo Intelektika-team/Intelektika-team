@@ -26,9 +26,9 @@ We’re an innovative team from **Kvantorium (Dimitrovgrad)**, building open tec
 
 *   **💾 Hardware:** RP2040, ESP8266, Orange Pi
 *   **📟 Firmware:** C/C++ (Arduino, ESP-IDF)
-*   **🖥 Software & CLI:** Python, Swift, Bash, C
+*   **🖥 Software & CLI:** Python, Swift, Bash, Rust.
 *   **🤖 Automation & ML:** Custom frameworks (Nelin), TensorFlow
-*   **🔧 Tools:** Fusion 360, PlatformIO, Git, GitHub Actions, Arduino
+*   **🔧 Tools:** Fusion 360, PlatformIO, Git, GitHub Actions, Arduino, Blender, Zed, VSCode.
 
 <a href="https://github.com/Intelektika-team">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Intelektika-team&layout=compact&theme=dark" />
