@@ -21,7 +21,7 @@ We’re an innovative team from **Kvantorium (Dimitrovgrad)**, building open tec
 *   **PiCore Mini & Toolkit:** An ML and development computer based on OrangePI. Project discontinued. ([Repository](https://github.com/Intelektika-team/PiCore_mini-startup))
 
 
-## 🔎 Learn more about our key projects
+## 🔎 More more about our key projects
 
 ### Voxel — our programming language
 We have created our own programming language inspired by the Brainfuck concept. Our goal is to make it complete and user—friendly. The syntax of the language is easy to understand, and it is also translated, which means that it is not just executed, but transformed into another language. In our case, it's Python. The language has its own command-line utility called vxl for working with projects.
