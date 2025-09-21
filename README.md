@@ -28,7 +28,7 @@ We have created our own programming language inspired by the Brainfuck concept. 
 ```
 bash= echo //s Hello, //s World; //= Simple bash use;
 bash= vxl //s -i //s html; //= Vxl install package usage;
-
+<; >=2; +=2; +; -; out.now; //= Example tape usage;
 //= Multi-line Python block;
 :pyl-custom_logic-{
     import requests
