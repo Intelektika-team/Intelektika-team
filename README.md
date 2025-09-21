@@ -24,7 +24,22 @@ We’re an innovative team from **Kvantorium (Dimitrovgrad)**, building open tec
 ## 🔎 More more about our key projects
 
 ### Voxel — our programming language
-We have created our own programming language inspired by the Brainfuck concept. Our goal is to make it complete and user—friendly. The syntax of the language is easy to understand, and it is also translated, which means that it is not just executed, but transformed into another language. In our case, it's Python. The language has its own command-line utility called vxl for working with projects.
+We have created our own programming language inspired by the Brainfuck concept. Our goal is to make it complete and user—friendly. The syntax of the language is easy to understand, and it is also translated, which means that it is not just executed, but transformed into another language. In our case, it's Python. The language has its own command-line utility called vxl for working with projects. Example usage-
+```
+bash= echo //s Hello, //s World; //= Simple bash use;
+bash= vxl //s -i //s html; //= Vxl install package usage;
+
+//= Multi-line Python block;
+:pyl-custom_logic-{
+    import requests
+    response = requests.get('https://api.example.com')
+    print(response.status_code)
+};
+//= Use defined Python code;
+pylpaste= custom_logic;
+out.str= Hello, //s World; //= Example output.string usage;
+```
+
 ### Patch — programmable keyboard: an analog of Streamdeck for developers
 Patch is a universal dashboard for developers that, thanks to an open ecosystem and a uniquely simple protocol for interacting with a computer, can perform almost any task. For example, you can specify in the driver that a script should be run when the 1 button is pressed.
 
