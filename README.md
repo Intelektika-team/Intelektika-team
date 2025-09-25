@@ -7,6 +7,7 @@ We’re an innovative team from **Kvantorium (Dimitrovgrad)**, building open tec
 [![Utitool Status](https://img.shields.io/badge/Utitool-Stable%20v0.9.5-brightgreen?style=for-the-badge)](#)
 ---
 
+
 ## 🧩 Our Active Projects
 
 | Project | Status | Description |
@@ -53,15 +54,6 @@ Patch is a universal dashboard for developers that, thanks to an open ecosystem 
 *   **🤖 Automation & ML:** Custom frameworks (Nelin), TensorFlow
 *   **🔧 Tools:** Fusion 360, PlatformIO, Git, GitHub Actions, Arduino, Blender, Zed, VSCode.
 
-<a href="https://github.com/Intelektika-team">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Intelektika-team&layout=compact&theme=dark" />
-</a>
-<a href="https://github.com/Intelektika-team">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Intelektika-team&layout=compact&langs_count=8&card_width=320&theme=dark" />
-</a>
-
-
-
 
 
 
@@ -82,6 +74,12 @@ Patch is a universal dashboard for developers that, thanks to an open ecosystem 
 
 > **"Tech shouldn't be an elite club — it's a tool for everyone."**
 > We fight complexity: our hardware has no pointless wires, our software has no hidden dependencies, and our docs speak *human*. Your projects should solve problems — not technical puzzles.
+
+---
+## 📊 GitHub Stats
+<div align="center"> <a href="https://github.com/Intelektika-team"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=Intelektika-team&show_icons=true&theme=dark&hide_border=true" /> </a> <a href="https://github.com/Intelektika-team"> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=Intelektika-team&layout=compact&theme=dark&hide_border=true&langs_count=8" /> </a> </div>
+
+
 
 ---
 
