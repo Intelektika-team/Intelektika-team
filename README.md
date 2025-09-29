@@ -1,21 +1,27 @@
 # 🌟 Intelektika Team
 
+[![About-Ru](https://img.shields.io/badge/README-RU%20-0088CC?style=for-the-badge&logo=github)](https://github.com/Intelektika-team/Intelektika-team/blob/main/README-RU.md)
+[![Our-site](https://img.shields.io/badge/OUR-SITE%20-green?style=for-the-badge&logo=github)](https://intelektika-team.github.io/)
+
+
 We’re an innovative team from **Kvantorium (Dimitrovgrad)**, building open technologies for developers, engineers, and makers. Our mission is to make powerful tools accessible, versatile, and ready to use *"out of the box."* We don’t just build devices — we create an **ecosystem**: from hardware platforms to libraries and software that unlock their full potential.
 
-[![About-Ru](https://img.shields.io/badge/README-RU%20-0088CC?style=for-the-badge&logo=github)](https://github.com/Intelektika-team/Intelektika-team/blob/main/README-RU.md)
-[![Project Patch Status](https://img.shields.io/badge/Project%20Patch-In%20Active%20Development-orange?style=for-the-badge)](#)
-[![Utitool Status](https://img.shields.io/badge/Utitool-Stable%20v0.9.5-brightgreen?style=for-the-badge)](#)
 ---
 
 
 ## 🧩 Our Active Projects
 
+
+[![Project Patch Status](https://img.shields.io/badge/Project%20Patch-In%20Active%20Development-orange?style=for-the-badge)](#)
+[![Voxel status](https://img.shields.io/badge/VoxLang-Betta%20v0.7.8-brightgreen?style=for-the-badge)](#)
+[![Utitool status](https://img.shields.io/badge/Utitool-Stable%20v0.9.5-red?style=for-the-badge)](#)
+[![Nelin status](https://img.shields.io/badge/Nelin-Alpha%20v0.4.2-yellow?style=for-the-badge)](#)
 | Project | Status | Description |
 | :--- | :--- | :--- |
 | [**Patch**](https://github.com/Intelektika-team/Patch) | `🚧 In Active Development` | A smart, programmable automation panel. Execute any Python script with a single button press. | 
 | [**Utitool**](https://github.com/Intelektika-team/Utitool) | `✅ Stable v0.9.5` | A powerful CLI utility with a unique Python plugin system for automation and system tooling. | 
 | [**Nelin**](https://github.com/Intelektika-team/Nelin) | `🧪 Public Alpha 0.4.2` | A library for a new type of machine learning, enabling rapid prototyping and commercial projects. |
-| [**Voxel**](https://github.com/Intelektika-team/Voxel) | `🧪 Public Betta 0.7.5` | A programming language translated into python similar to brainfuck, but more functional. |
+| [**Voxel**](https://github.com/Intelektika-team/Voxel) | `🧪 Public Betta 0.7.8` | A programming language translated into python similar to brainfuck, but more functional. |
 
 ## 📦 Archived Projects
 
@@ -27,18 +33,19 @@ We’re an innovative team from **Kvantorium (Dimitrovgrad)**, building open tec
 ### Voxel — our programming language
 We have created our own programming language inspired by the Brainfuck concept. Our goal is to make it complete and user—friendly. The syntax of the language is easy to understand, and it is also translated, which means that it is not just executed, but transformed into another language. In our case, it's Python. The language has its own command-line utility called vxl for working with projects. Example usage-
 ```
-bash= echo //s Hello, //s World; //= Simple bash use;
-bash= vxl //s -i //s html; //= Vxl install package usage;
+bash(echo //s Hello, //s World); //= Simple bash use;
+bash(vxl //s -i //s html); //= Vxl install package usage;
+
 <; >=2; +=2; +; -; out.now; //= Example tape usage;
+
 //= Multi-line Python block;
 :pyl-custom_logic-{
     import requests
     response = requests.get('https://api.example.com')
     print(response.status_code)
-};
-//= Use defined Python code;
-pylpaste= custom_logic;
-out.str= Hello, //s World; //= Example output.string usage;
+}; pylpaste(custom_logic); //= Use defined Python code;
+
+out.str(Hello, //s World); //= Example output.string usage;
 ```
 
 ### Patch — programmable keyboard: an analog of Streamdeck for developers
