@@ -92,7 +92,7 @@ Patch is a universal dashboard for developers that, thanks to an open ecosystem 
 
 ## 🚪 Join Us!
 
-- **⭐ Star** our [main repository](https://github.com/Intelektika-team) to track updates!
+- **⭐ Star** our [main repository](https://github.com/Intelektika-team/Intelektika-team) to track updates!
 - **🐞 Help us improve:** We welcome contributors for SDK development, testing, and docs translation.
 - **🌐 Stay tuned:** [Our Site](https://intelektika-team.github.io/)
 
