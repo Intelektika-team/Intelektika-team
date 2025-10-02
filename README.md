@@ -2,7 +2,9 @@
 
 [![About-Ru](https://img.shields.io/badge/README-RU%20-0088CC?style=for-the-badge&logo=github)](https://github.com/Intelektika-team/Intelektika-team/blob/main/README-RU.md)
 [![Our-site](https://img.shields.io/badge/OUR-SITE%20-green?style=for-the-badge&logo=github)](https://intelektika-team.github.io/)
-
+[![Project Patch Status](https://img.shields.io/badge/Project%20Patch-In%20Active%20Development-orange?style=for-the-badge)](#)
+[![Voxel status](https://img.shields.io/badge/VoxLang-Betta%20v0.7.8-brightgreen?style=for-the-badge)](#)
+[![Utitool status](https://img.shields.io/badge/Utitool-Stable%20v0.9.5-red?style=for-the-badge)](#)
 
 We’re an innovative team from **Kvantorium (Dimitrovgrad)**, building open technologies for developers, engineers, and makers. Our mission is to make powerful tools accessible, versatile, and ready to use *"out of the box."* We don’t just build devices — we create an **ecosystem**: from hardware platforms to libraries and software that unlock their full potential.
 
@@ -11,11 +13,6 @@ We’re an innovative team from **Kvantorium (Dimitrovgrad)**, building open tec
 
 ## 🧩 Our Active Projects
 
-
-[![Project Patch Status](https://img.shields.io/badge/Project%20Patch-In%20Active%20Development-orange?style=for-the-badge)](#)
-[![Voxel status](https://img.shields.io/badge/VoxLang-Betta%20v0.7.8-brightgreen?style=for-the-badge)](#)
-[![Utitool status](https://img.shields.io/badge/Utitool-Stable%20v0.9.5-red?style=for-the-badge)](#)
-[![Nelin status](https://img.shields.io/badge/Nelin-Alpha%20v0.4.2-yellow?style=for-the-badge)](#)
 | Project | Status | Description |
 | :--- | :--- | :--- |
 | [**Patch**](https://github.com/Intelektika-team/Patch) | `🚧 In Active Development` | A smart, programmable automation panel. Execute any Python script with a single button press. | 
