@@ -1,2 +1,5 @@
-| Teamlead | PT |
-| Developer | BV |
+# Members
+| nickname | role |
+| :--- | :--- |
+| Pt | Teamlead |
+| Bv | Developer |
