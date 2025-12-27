@@ -1,4 +1,5 @@
 
+<img width="2000" height="2000" alt="Без имени-4" src="https://github.com/user-attachments/assets/0fb27b92-8ece-4fe1-8428-97736d0da076" />
 <img width="720" height="720" alt="logo2" src="https://github.com/user-attachments/assets/7a81c615-ebb8-493c-8f10-ab8ed649473a" />
 <img width="3840" height="800" alt="framepng" src="https://github.com/user-attachments/assets/8d6b2153-0ff2-4af4-80e3-ff83781f9489" />
 <img width="3840" height="2160" alt="fw_logo" src="https://github.com/user-attachments/assets/c221175d-c9a7-4124-a08c-42bdc16ab8ee" />
