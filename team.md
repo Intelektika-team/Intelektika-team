@@ -2,4 +2,4 @@
 | nickname | role |
 | :--- | :--- |
 | Pt | Teamlead |
-| Bv | Developer |
+| Vb | Developer |
