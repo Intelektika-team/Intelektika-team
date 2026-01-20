@@ -3,7 +3,7 @@ Intelektika is an engineering collective focused on one problem: the growing com
 
 <img width="200" align="left" alt="logo-small" src="https://github.com/user-attachments/assets/a6d88656-6ed8-4c2d-bbe8-533c55d55c5e" />
 
-**Intelektika Team · 2025**
+**Intelektika Team · 2026**
 
 Kvantorium 73.
 
